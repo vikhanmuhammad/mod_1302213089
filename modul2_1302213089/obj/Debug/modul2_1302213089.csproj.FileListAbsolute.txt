@@ -9,3 +9,14 @@ C:\Users\PRAKTIKAN\Downloads\modul2_1302213089\modul2_1302213089\modul2_13022130
 C:\Users\PRAKTIKAN\Downloads\modul2_1302213089\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.csproj.CoreCompileInputs.cache
 C:\Users\PRAKTIKAN\Downloads\modul2_1302213089\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.exe
 C:\Users\PRAKTIKAN\Downloads\modul2_1302213089\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.Form1.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\obj\Debug\modul2_1302213089.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\bin\Debug\modul2_1302213089.exe.config
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\bin\Debug\modul2_1302213089.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul2_1302213089\modul2_1302213089\bin\Debug\modul2_1302213089.pdb
